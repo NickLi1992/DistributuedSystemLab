@@ -1,2 +1,2 @@
 # DistributuedSystemLab
-mit6.824 2015spring
+mit6.824_2015spring
